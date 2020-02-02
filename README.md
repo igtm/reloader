@@ -3,6 +3,8 @@
 アクセス制限のかかった対象ページに繋がるまで   
 自動でアクセスするpuppeteerスクリプト
 
+![screenshot](./screenshot.png)
+
 # Use case
 
 - 某チケットサイトの人気一般チケットを取る
